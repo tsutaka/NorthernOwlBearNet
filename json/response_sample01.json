@@ -1,0 +1,27 @@
+{
+  "msg_type" : "response", 
+  "session_key" : "", 
+  "contens" : [
+    {
+      "display" : "A", 
+      "conten_type" : "text", 
+      "text" : "Hello, world"
+    },
+    {
+      "display" : "B", 
+      "conten_type" : "list", 
+      "list" : [
+        "Hello, world", 
+        "text2"
+      ]
+    },
+    {
+      "display" : "B", 
+      "conten_type" : "character_sheet", 
+      "character_sheet" : {
+        "player_name" : "taro", 
+        "character_name" : "jiro" 
+      }
+    }
+  ]
+}

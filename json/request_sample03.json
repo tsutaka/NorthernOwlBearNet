@@ -1,0 +1,8 @@
+{
+  "msg_type" : "request", 
+  "session_key" : "xxxx", 
+  "cmd" : "data_request", 
+  "content" : {
+    "request_data":"character_sheet"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "msg_type" : "request", 
+  "session_key" : "", 
+  "cmd" : "login", 
+  "content" : {
+    "user_name":"test_user", 
+    "pw_hash":"xxxx"
+  }
+}

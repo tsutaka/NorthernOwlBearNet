@@ -1,0 +1,8 @@
+{
+  "msg_type" : "request", 
+  "session_key" : "xxxx", 
+  "cmd" : "send", 
+  "content" : {
+    "text":"test_user"
+  }
+}
