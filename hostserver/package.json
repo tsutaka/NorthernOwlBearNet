@@ -1,0 +1,14 @@
+{
+  "name": "hostserver",
+  "version": "1.0.0",
+  "description": "/usr/local/etc/hostserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "node src/server.js"
+  },
+  "author": "tsutaka",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
